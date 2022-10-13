@@ -1,0 +1,62 @@
+{
+  "icons": [
+    {
+      "src": "./icon_1024x1024.f5d519145254688fc9119d2343a45a87.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icon_1024x1024.f5d519145254688fc9119d2343a45a87.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_512x512.35f52ccd737780342af2a4cd8f9c0448.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_229x229.9cff2127884f59cdbd7b99b2e6512c2b.png",
+      "sizes": "229x229",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_192x192.cf2f939ff0489b35ae426e00fd2fa8ca.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_168x168.4157e8cfe90ffaf86ea813dd6c4f3bd0.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_144x144.46b09ac96a6b308c4528f3219b690061.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_96x96.6da35445e1e018e5a960a34c3e6afc40.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_72x72.7f8c5c8fd060be474cd9b3c0c64c6d49.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_48x48.0006811aabc48ba15162cee363df6906.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ],
+  "name": "QR Scanner - Jens Vanderstraeten",
+  "short_name": "QR-JV",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Fast and free to use QR code scanner!",
+  "background_color": "#00FCAD"
+}
